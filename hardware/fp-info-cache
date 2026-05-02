@@ -1,4 +1,4 @@
-25697993534956108
+25703326603559842
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86289,6 +86289,13 @@ USON-20 2x4mm Pitch 0.4mm
 20
 20
 Package_SON
+Untitled
+
+
+0
+0
+0
+Package_SON
 VSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm
 VSON, 8 Pin (https://www.ti.com/lit/ds/symlink/thvd1450.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
 VSON NoLead
@@ -102837,6 +102844,13 @@ SOT-23-5_L2.9-W1.6-P0.95-LS2.7-BR
 5
 5
 easyeda2kicad
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
+easyeda2kicad
 SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BR
 
 
@@ -102866,6 +102880,13 @@ VSON8_L2.0-W2.3-P0.50-LS3.1-BL
 8
 easyeda2kicad
 WDFN-10_L3.0-W3.0-P0.50-BL-EP
+
+
+0
+11
+11
+easyeda2kicad
+WSON-10_L2.2-W2.0-P0.40-BL-EP_TI_DLH0010A
 
 
 0
