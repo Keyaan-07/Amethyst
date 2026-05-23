@@ -22,3 +22,7 @@ Amethyst is an 84-key keyboard with a small form factor. It comes with the RP204
 10. Your keyboard is now ready!!
 
 # BOM
+
+
+# 3d Files link
+All the 3d files can be found on onshape [here](https://cad.onshape.com/documents/0f11901139fd6ce9006e5c5f/w/93aac7747a7c2381c6948375/e/4120b339a04cfd3df2b98c52)
