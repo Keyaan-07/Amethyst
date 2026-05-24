@@ -7493,7 +7493,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "15p"
 			(at 161.2963 214.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9407,7 +9407,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "15p"
 			(at 161.2963 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
