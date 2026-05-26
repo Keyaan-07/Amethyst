@@ -7391,7 +7391,6 @@
 			)
 		)
 		(model "E:/keyaan/kicad/amethyst keeb/threedimensions/Amethyst_case.step"
-			(hide yes)
 			(offset
 				(xyz 147.5 -53 -13)
 			)
