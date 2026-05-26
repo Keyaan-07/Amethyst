@@ -183,12 +183,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/35fcd542-eae3-449e-9626-0ec662e8c209")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -414,7 +408,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -426,6 +420,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -497,12 +502,6 @@
 		(path "/a665130b-1ef4-457e-b1de-e8a7383950c8")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -604,12 +603,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c8a72f49-822e-412e-8c54-c2e7ca6d4e99")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -835,7 +828,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -847,6 +840,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -907,12 +911,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/b92fc7dd-860d-4d23-aa2c-ba4149192587")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1138,7 +1136,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -1150,6 +1148,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -1210,12 +1219,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5b3c7de8-d026-4211-9ad2-90e2639ffd14")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1441,7 +1444,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -1453,6 +1456,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -1513,12 +1527,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/352377a4-6d9d-416d-83cf-08a9a3358310")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1744,7 +1752,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -1756,6 +1764,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -1816,12 +1835,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c3e7688d-46f8-4ec9-b9a5-425ae7aab68b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2047,7 +2060,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -2059,6 +2072,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -2119,12 +2143,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a1c9ab67-d99b-4586-8f62-0f267f0002e7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2350,7 +2368,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -2362,6 +2380,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -2422,12 +2451,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/b0d04e45-0624-47a1-9845-bab6a32a14c4")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2653,7 +2676,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -2665,6 +2688,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -2725,12 +2759,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/286fb2da-0e50-4412-ad19-c20a0b33358f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2956,7 +2984,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -2968,6 +2996,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -3028,12 +3067,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/484ce9ab-574b-4e39-81d3-9d9cf1172e53")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3259,7 +3292,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -3271,6 +3304,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -3331,12 +3375,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/7858f67f-7d4f-404d-9114-7ce4a45bb657")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3590,7 +3628,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -3602,6 +3640,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x2 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -3662,12 +3711,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/1eb40e89-b66a-420c-9aa3-031a4f66dde2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3893,7 +3936,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -3905,6 +3948,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -3965,12 +4019,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/076bed59-29a6-42d5-b74a-1275d5dfb77e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4196,7 +4244,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -4208,6 +4256,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -4268,12 +4327,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/1abfd249-ebb7-4fc2-a696-2206339a4df3")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4499,7 +4552,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -4511,6 +4564,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -4571,12 +4635,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a47b0e95-2154-428e-9ab4-1f35ecbc1bf5")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4802,7 +4860,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -4814,6 +4872,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -4874,12 +4943,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2c7c631b-5184-419d-9f63-0ac886faab7e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5105,7 +5168,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -5117,6 +5180,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -5177,12 +5251,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0f73c781-62ba-4e40-bec8-8e40f8a17469")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5408,7 +5476,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -5420,6 +5488,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -5480,12 +5559,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/6d01884b-9351-4f6e-a7b9-73abded55fb6")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5711,7 +5784,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -5723,6 +5796,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -5783,12 +5867,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/9d9f9fdd-6a2e-4c66-ab36-8eea0accc121")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6014,7 +6092,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -6026,6 +6104,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -6086,12 +6175,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a7e8de94-12bd-48eb-bc71-b0a45f83fa15")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6338,6 +6421,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_6.25u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6357,6 +6441,28 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/cherry-mx-keycaps-master/STL/1x6.25 R1.stl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x6.25 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -6417,12 +6523,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5ad74b8e-deec-4cf6-84cb-d168d8a495f9")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6648,7 +6748,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -6660,6 +6760,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -6720,12 +6831,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c48fcaaf-eb89-4930-b82a-57d37f0a8c56")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6965,6 +7070,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.25 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -7023,12 +7139,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/9e54935f-906f-4a85-9f3a-dedf4326bae7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7247,6 +7357,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7254,7 +7365,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -7266,6 +7377,29 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
+		(model "E:/keyaan/kicad/amethyst keeb/threedimensions/Amethyst_case.step"
+			(hide yes)
+			(offset
+				(xyz 147.5 -53 -13)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7326,12 +7460,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a4f83ba9-90e1-4b93-b6dd-4fb93bb74397")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7557,7 +7685,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -7569,6 +7697,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -7629,12 +7768,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5ef603d2-44a0-4b09-83c8-0d662f595156")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7860,7 +7993,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -7872,6 +8005,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -7932,12 +8076,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a75f08b4-0736-432c-91da-ba765ebd57df")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8163,7 +8301,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -8175,6 +8313,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -8235,12 +8384,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/444eb4d3-6909-49ef-9f2f-ef152140f201")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8466,7 +8609,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -8478,6 +8621,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -8538,12 +8692,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f70b7b32-293c-4a98-bd8b-8a76cae3566d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8769,7 +8917,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -8781,6 +8929,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -8841,12 +9000,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/66ffa799-a05f-426f-a473-89d913b18e89")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9086,6 +9239,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.75 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -9144,12 +9308,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f170af87-87a8-46bb-8c92-6b82fa088be4")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9375,7 +9533,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -9387,6 +9545,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -9447,12 +9616,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8d8700e4-2c55-46d6-be88-8944164f7b65")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9678,7 +9841,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -9690,6 +9853,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -9750,12 +9924,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/894336e1-1db5-4ef3-9f7c-e3b89656f799")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9981,7 +10149,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -9993,6 +10161,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -10053,12 +10232,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/b38c8606-df88-4f2d-a4c7-df9314ff6876")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10284,7 +10457,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -10296,6 +10469,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -10356,12 +10540,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2394f6a3-93db-4e76-89c7-65d9040a8006")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10587,7 +10765,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -10599,6 +10777,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -10659,12 +10848,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/9e15d8eb-7ace-414c-b062-721eef69dbef")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10904,6 +11087,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.25 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -10962,12 +11156,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f968c8d3-55ba-4e2d-993d-3eaa3fa2b343")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11193,7 +11381,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -11205,6 +11393,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -11265,12 +11464,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/d1179aae-0893-4805-a7f1-09298721cc10")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11496,7 +11689,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -11508,6 +11701,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -11568,12 +11772,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/7526c4f1-76ea-43b4-b203-9e0c2ef54f73")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11799,7 +11997,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -11811,6 +12009,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -11871,12 +12080,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/912f1648-7284-4358-a34a-4ce890f75276")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12102,7 +12305,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -12114,6 +12317,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -12174,12 +12388,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/1d9a652e-27c0-4684-accc-a6633f62da74")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12405,7 +12613,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -12417,6 +12625,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -12477,12 +12696,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f81037e1-4ee6-48d3-a08b-cd57c5d4389b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12708,7 +12921,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -12720,6 +12933,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -12780,12 +13004,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/417b285b-c6e1-4506-a050-ce023ce4963a")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13025,6 +13243,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.25 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 		(layer "F.Cu")
@@ -13083,12 +13312,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/069deea4-0b89-4a4d-b891-c146a5a030f0")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13328,6 +13551,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.5 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -13386,12 +13620,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a72670bb-45fd-463e-be13-90ef9e25ab54")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13617,7 +13845,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -13629,6 +13857,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -13689,12 +13928,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3abd9bef-c6bf-401b-b254-10c49115f945")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13920,7 +14153,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -13932,6 +14165,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -13992,12 +14236,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3fcac7d9-57cf-4d37-8a5c-55fc9b9b488f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14223,7 +14461,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -14235,6 +14473,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -14295,12 +14544,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/26c568cf-936e-43b3-aed5-1e1a363bb9e2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14540,6 +14783,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.5 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -14598,12 +14852,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/6e67b2c6-2b5d-424b-aac5-55eb9a1f41bb")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14829,7 +15077,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -14841,6 +15089,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -14901,12 +15160,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/05c28bfa-087c-4190-a99c-c7ed66007680")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15132,7 +15385,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -15144,6 +15397,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -15204,12 +15468,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/d822af06-f150-4378-9df8-1c62f097bc6b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15435,7 +15693,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -15447,6 +15705,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -15507,12 +15776,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8eb6e6aa-9fae-4281-a8d0-ffa9cfbf257e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15738,7 +16001,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -15750,6 +16013,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -15810,12 +16084,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/7ece4996-0a45-4b94-9f66-ac84c60f6f2d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16083,6 +16351,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x2.25 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -16141,12 +16420,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f6664ab3-7992-41df-8288-68a4be2c4a53")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16372,7 +16645,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -16384,6 +16657,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -16455,12 +16739,6 @@
 		(path "/250b9002-8f5e-4d55-8fe8-d8fa8119ddc2")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -16562,12 +16840,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/4e8e5848-b0ba-4312-a7a5-3c3c2108960d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16793,7 +17065,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -16805,6 +17077,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -16865,12 +17148,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/fe5c83b4-39c8-49e9-94bf-01415c61f72a")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17096,7 +17373,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -17108,6 +17385,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -17168,12 +17456,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/d695d3ac-bb86-4756-9f98-3baccde54d74")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17441,6 +17723,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x2.25 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -17499,12 +17792,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f6db32c3-5b82-4624-bb38-09e87f0c29a3")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17730,7 +18017,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -17742,6 +18029,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -17802,12 +18100,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/297dfc86-a909-402b-a4de-3041b67e421a")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18033,7 +18325,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -18045,6 +18337,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -18105,12 +18408,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/81a3902f-d5be-4c47-a286-15b8f4c88e4d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18336,7 +18633,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -18348,6 +18645,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -18408,12 +18716,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/ef77c0d3-2257-409a-9a0b-06d80dbe3a9a")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18639,7 +18941,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -18651,6 +18953,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -18711,12 +19024,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/6093c045-eec1-4174-a562-8db9994d792f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18942,7 +19249,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -18954,6 +19261,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -19014,12 +19332,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a2476fa3-b99a-4ee1-9016-135b4ef126ab")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19245,7 +19557,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -19257,6 +19569,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -19317,12 +19640,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3c20c5cb-3667-4b12-a96f-e68a0f117f1d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19548,7 +19865,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -19560,6 +19877,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -19620,12 +19948,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/540decd2-35fd-4d06-9173-25c900a30d05")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19851,7 +20173,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -19863,6 +20185,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -19923,12 +20256,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a8029acf-c48a-439c-a6b8-169442372ff6")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20154,7 +20481,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -20166,6 +20493,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -20226,12 +20564,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/ebc5b8a5-b6a5-415a-8aaa-21a9c78199ff")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20471,6 +20803,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1.75 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -20529,12 +20872,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/bb8d0c38-fc9f-474b-8feb-1c8d96d63a97")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20760,7 +21097,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -20772,6 +21109,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -20832,12 +21180,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5a789cae-62d8-4826-bc8c-f6d30343a3b8")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21063,7 +21405,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -21075,6 +21417,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -21135,12 +21488,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/6ee2e245-7d20-4d47-a6f7-ddac037575af")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21366,7 +21713,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -21378,6 +21725,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -21449,12 +21807,6 @@
 		(path "/5a124040-7702-4c97-9083-6eb485c3b90f")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -21556,12 +21908,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/fd52972e-215c-4b2e-ae16-0d97a0590441")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21787,7 +22133,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -21799,6 +22145,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -21859,12 +22216,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a11c6c30-5a46-4aa0-8581-f11412140508")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22090,7 +22441,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -22102,6 +22453,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -22162,12 +22524,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0e0bc21b-16d9-4833-a168-f6c0c1c98521")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22393,7 +22749,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -22405,6 +22761,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -22465,12 +22832,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/043065c8-86fd-40ea-aede-2fbaf5c56f02")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22696,7 +23057,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -22708,6 +23069,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -22768,12 +23140,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/87e99892-2c99-416d-98f1-54a775795408")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22999,7 +23365,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -23011,6 +23377,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -23082,12 +23459,6 @@
 		(path "/bc07f817-39b8-4c00-acdb-1b64081379f3")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -23189,12 +23560,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/ac08d773-192e-4564-8986-655782fdf20c")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23420,7 +23785,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -23432,6 +23797,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -23492,12 +23868,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/01771735-a14f-4c8b-98e8-1692ce5fea99")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23723,7 +24093,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -23735,6 +24105,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -24894,12 +25275,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5b59744e-2e80-4e37-a629-7c691385771f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25125,7 +25500,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -25137,6 +25512,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -25197,12 +25583,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f894fe66-ea30-4833-ae91-fcd9e2f54282")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25428,7 +25808,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -25440,6 +25820,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -25500,12 +25891,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/e7124774-0074-4775-aa98-56b990ba9596")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25731,7 +26116,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -25743,6 +26128,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -25803,12 +26199,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/60e3aa1e-3c85-4a1d-a02b-9425ff17f470")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26034,7 +26424,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -26046,6 +26436,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -26106,12 +26507,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0cf783a9-3cde-4999-9786-723822dea082")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26337,7 +26732,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -26349,6 +26744,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -26409,12 +26815,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/26504def-8d3a-4b2f-9ff0-8a08c1be0331")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26640,7 +27040,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -26652,6 +27052,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -26712,12 +27123,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/d13ba829-2a11-4b02-9498-f2cd3c26c5b8")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26943,7 +27348,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -26955,6 +27360,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -27015,12 +27431,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/d4b6fb2a-d360-4fca-9633-4f5d6e4bdc06")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27246,7 +27656,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "E:/kicad 9/share/kicad/3dmodels/Button_cherryMX.3dshapes/switch.step"
@@ -27258,6 +27668,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Irshad Khatri/Documents/KiCad/keyboard/keycaps/R1/step/1x1 R1.step"
+			(offset
+				(xyz -2.5 -5 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -27351,12 +27772,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/66845c07-4c9b-4549-94a3-a989528c6bfb")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27674,12 +28089,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/fb3fd01e-f032-411b-9d57-5eac62ef924b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27979,12 +28388,6 @@
 		(path "/64045fac-163f-479e-a98c-542fd4ba918d")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28144,12 +28547,6 @@
 		(path "/60249283-10cb-41cf-af82-a7d3efcf401e")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28309,12 +28706,6 @@
 		(path "/1dcfedeb-34d7-4505-a386-b19434e5ef0c")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "6" "5" "2" "3" "7" "8" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28716,12 +29107,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8e29f3a0-4a77-4cb9-a18c-f2d6da37214b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29039,12 +29424,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c97b25f4-5adf-4a1c-92b2-4d1dc12e1942")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29362,12 +29741,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5c0783d0-b814-4697-b934-6405c0fc6093")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29685,12 +30058,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/9c59280e-3937-4c58-8008-5a696e643eb5")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30008,12 +30375,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5e801ce5-c26b-4dc3-9ed1-747b0f1efaca")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30313,12 +30674,6 @@
 		(path "/627d8f73-75b6-43cf-b1e4-300bd60f5852")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30496,12 +30851,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/db5b7c23-b993-4986-a873-b1dfcc98f9b7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30819,12 +31168,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/9019b7a0-ecf0-4e87-871c-27a531d98444")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31142,12 +31485,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3c8ae010-ddb1-4477-9534-8ff9b1277719")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31465,12 +31802,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/e83e4e57-9888-43fc-a728-7fcf6bd62e0e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31770,12 +32101,6 @@
 		(path "/14530fba-5c2c-40f1-8a1e-d2d3e5047942")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31935,12 +32260,6 @@
 		(path "/2c47a211-80f7-449d-ba88-cb1b7e54c4bb")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32118,12 +32437,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/605a9aea-85f3-414c-9461-4db3f4a1a884")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32414,12 +32727,6 @@
 		(path "/b7cb7e8d-af72-4243-a7cf-af680c6fc478")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.7 -0.7)
@@ -32614,12 +32921,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5a2d1064-e29c-430a-9969-75cc101ed375")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32919,12 +33220,6 @@
 		(path "/e0e5de34-1cfc-499a-ae87-1a8952ef1af6")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33102,12 +33397,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c61741a2-ac98-4a03-9895-56e3e0520741")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33425,12 +33714,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5287ee1d-dfa4-4e2b-b1e9-6f243490c3ac")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33748,12 +34031,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/9beeccf0-6020-4998-acc0-282ca6a47f88")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34071,12 +34348,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a4cb0a03-4b16-40ec-a7d2-7c2f0dabee13")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34394,12 +34665,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/cdd5c063-6076-46d7-b2fb-7475fc1e924f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34717,12 +34982,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/4fd35212-6baf-4791-bdb5-6b36804cc1d7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35040,12 +35299,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c99b8706-c8b8-43b1-8f9e-fca5788ede35")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35345,12 +35598,6 @@
 		(path "/7de56eec-ebe8-49fa-b44f-68295a72d871")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35528,12 +35775,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/b371d2de-251d-4534-a2fd-f54ba286ed1e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35851,12 +36092,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3fa50b0a-133b-488e-825a-3a73dc3a98a0")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36155,12 +36390,6 @@
 		(path "/b3daa6de-bf9e-4f61-be1e-b21e40c9e9cd")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36320,12 +36549,6 @@
 		(path "/418cf1a3-6121-4131-89c2-bc6880c02746")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36503,12 +36726,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/7f4e6833-f081-4cad-8e73-cd123209b03d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36826,12 +37043,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c5c5ac8a-468d-4b2c-bd08-e2acd1fa1856")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37149,12 +37360,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c3266f53-9295-4744-bcaa-ae8a561b99f6")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37472,12 +37677,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/236aa6f7-e99a-4014-b45d-882bcebd8b35")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37795,12 +37994,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8a9c19bf-2c1c-4ec3-938d-55de745444f2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38118,12 +38311,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/195e4fb7-6ada-4d99-baa5-5c0479a18447")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38441,12 +38628,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f7c45f9f-e720-4b28-9ecc-97b1d6de24d8")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38764,12 +38945,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/fa669d3f-3c5d-40e3-bbe2-f9b52a1f30d2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39060,14 +39235,6 @@
 		(path "/64472a36-3e2c-4a6d-b481-191427a5a7b3")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "S1" "A1" "A12" "B1" "B12" "A4" "A9" "B4" "B9" "A5" "B5" "A7" "B7"
-					"A6" "B6" "A8" "B8"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39525,12 +39692,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/1d08dd4d-d304-4ee8-a3da-bfc3e89a1318")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39848,12 +40009,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3d064309-8b85-4b60-9c18-ac6ba302e55d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40144,12 +40299,6 @@
 		(path "/b6b67e0f-e7b6-4692-8f11-a5f645498ab8")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40453,12 +40602,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/37fa1ecc-d6ed-43f6-bed3-06e5bb24a433")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40757,12 +40900,6 @@
 		(path "/0bd23e3d-810f-4fc9-b167-9ca1fc54c164")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40940,12 +41077,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/becd6c0d-02b3-4fef-8946-6954ce43e3e1")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41263,12 +41394,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0fb711d1-c444-49c9-9292-17abbdc02473")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41568,12 +41693,6 @@
 		(path "/34d08ab6-1288-420e-8df4-d33463a8b41f")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41751,12 +41870,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/47db2d81-76bd-4130-9cde-de2e570da97b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42074,12 +42187,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/65a4ee37-a3bb-4439-8297-c1d660f11377")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42397,12 +42504,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/424b257f-d3a7-4785-96f5-aec0862b9f9b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42720,12 +42821,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/fe010de1-f46b-4824-9bc5-72e198b256b7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43025,12 +43120,6 @@
 		(path "/1214908c-bf26-43a8-b3ab-e98418c72d53")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43190,12 +43279,6 @@
 		(path "/3e52a3ca-5dd6-4347-a729-389c2f19a6a2")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43346,12 +43429,6 @@
 		(path "/0f97f276-624f-403d-bde8-3820ca5f5ff3")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.7 -0.7)
@@ -43546,12 +43623,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/18aeaf3f-25a4-4164-8c3a-f99090608417")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43869,12 +43940,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f13ae4d1-8996-4ec2-b83d-7f41560f5c3d")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44192,12 +44257,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/409eaca5-2a42-46af-95b7-c2d709694981")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44515,12 +44574,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a8820c6c-c706-4e90-bdb2-80f9f17c1ea1")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44838,12 +44891,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/74df8b0a-2f2c-4708-8858-17781f1bad62")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45161,12 +45208,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a2eb0370-9db4-4414-b610-54890e268e3c")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45484,12 +45525,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/3882bff0-61a2-42ea-9fef-1a191dc8e6fd")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45807,12 +45842,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/97bae2a4-1e0a-49a9-8317-39026e3e0aee")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46111,12 +46140,6 @@
 		(path "/23e0a2eb-188b-4f85-b274-844a6d549c79")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46276,12 +46299,6 @@
 		(path "/39332214-2e29-4967-90d5-9e00a90f9854")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46441,16 +46458,6 @@
 		(path "/68e3e19b-8d88-43f5-a542-432293ff9f6e")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "19" "26" "46" "47" "56" "52" "53" "55" "54" "51" "20" "21" "24"
-					"25" "48" "43" "1" "22" "10" "49" "42" "33" "57" "44" "45" "23" "50"
-					"2" "3" "4" "5" "6" "7" "8" "9" "11" "12" "13" "14" "15" "16" "17" "18"
-					"27" "28" "29" "30" "31" "32" "34" "35" "36" "37" "38" "39" "40" "41"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47786,12 +47793,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2bb2b6ea-ba22-4671-ba7b-f76eeb3fe1a9")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48109,12 +48110,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8f557b04-cf53-4c10-ad80-08bec41e3f42")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48414,12 +48409,6 @@
 		(path "/e152e4a9-9804-41cf-bab9-9cd881a35a27")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48597,12 +48586,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0aaa9b17-f21f-4c35-888a-a8a059c166eb")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48920,12 +48903,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/74bce84a-ba7c-4ff8-ad07-ebe171a00cf8")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49243,12 +49220,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/135ddb3f-3918-4714-90e9-a094fd02930e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49548,12 +49519,6 @@
 		(path "/80897261-3ca6-488c-b0ed-105474a5ff3b")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49731,12 +49696,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/ce008adb-ba1d-41ea-8785-6f64dd1e801c")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50054,12 +50013,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/57c0e9fa-3e5a-409a-a03c-2b0c62528712")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50377,12 +50330,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/548edc73-ecc1-4e71-8f83-d7021d0ec774")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50682,12 +50629,6 @@
 		(path "/0fbf350c-5cd8-466c-98dc-3fd92fe61c21")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50865,12 +50806,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/00475325-dc1e-41f9-9639-ef3990482cec")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51188,12 +51123,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/7dd6979f-346c-4b52-ac1c-e7b21501270e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51493,12 +51422,6 @@
 		(path "/9158c8a5-f160-4c5f-bdc5-98cf03a88f21")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51676,12 +51599,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f2341ee7-5ca4-429f-a266-4b26ef2a7a4a")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51999,12 +51916,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/6c741c65-f80a-4131-87a2-76d28912c553")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52322,12 +52233,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2cdf8c55-ba40-4d8d-a42a-9450afd9f0ed")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52645,12 +52550,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/530f989a-0e40-4be6-b64a-bbf974c338fc")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52968,12 +52867,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/a2d58871-2382-44a9-951e-9b895edb8aa2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53273,12 +53166,6 @@
 		(path "/cd267884-e7d9-4e21-aea8-8999bc385312")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53456,12 +53343,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/4235e3b7-366b-4f0b-a026-0bf7120db3c2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53779,12 +53660,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/ecb066e5-f513-4240-bf09-517548ad620b")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54102,12 +53977,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/fa23cc5f-0db1-4c5a-a6b7-a15d4536bf74")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54407,12 +54276,6 @@
 		(path "/9254583b-328d-4a41-b82f-fe8391d3ec27")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54590,12 +54453,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/64e0cbb6-f160-4cba-9486-0453a562cf46")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -54913,12 +54770,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8a6b8129-d307-4cc5-8a68-61f6eebb76d7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -55236,12 +55087,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/49fde984-8c05-4498-836d-223e2ee5dd6c")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -55559,12 +55404,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/f132e34e-62b7-49df-8ceb-3238112af07f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -55882,12 +55721,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5f6b0533-fb6c-478d-9fbd-c0cec4eb7c24")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56205,12 +56038,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/20b16a77-1ed6-4012-9c43-df4db0061184")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56528,12 +56355,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2d388889-96ab-46ad-ad6f-3a04c46d0c74")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -56851,12 +56672,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/5c9a8505-6e25-4402-96a3-5bed82e32ce7")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -57174,12 +56989,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2892eb95-d563-4634-84fb-3b86f9339921")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -57478,12 +57287,6 @@
 		(path "/d8999b80-81f4-4fc4-b0d5-602b148b912d")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "4" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -57684,12 +57487,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/227d2bd0-410b-4e61-83c7-c8ea41bdef3e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58007,12 +57804,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0a207302-b254-47db-be34-12d8c658a68e")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58312,12 +58103,6 @@
 		(path "/a169453d-b98c-47a2-bb8f-4a9717b840b3")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58495,12 +58280,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/8eeb22c2-2d8e-48a2-8f84-d88ad4f72807")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -58818,12 +58597,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/e45be750-4445-44dc-87c8-e2218ada945f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -59141,12 +58914,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/36f22428-88eb-40d7-8a81-fae2cb57623f")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -59464,12 +59231,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/2d6e4902-a264-4a01-96f8-91c1ad497df6")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -59787,12 +59548,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/87046770-6921-479c-abee-b6b297668d14")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -60091,12 +59846,6 @@
 		(path "/ccfed7e7-bb2f-4c33-9dad-15fb887a1958")
 		(sheetname "/")
 		(sheetfile "amethyst.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -60274,12 +60023,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/4ec17756-3f0c-48b1-8200-351e216027b2")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -60597,12 +60340,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/c2676618-4f9c-4f44-9aa6-67060c0190bd")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -60920,12 +60657,6 @@
 		(path "/0f355ac3-f4d8-4d99-b7f8-9ad18c518cd6/0dfa3275-2fa1-44c6-aee0-308dc5f6e917")
 		(sheetname "/Matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
