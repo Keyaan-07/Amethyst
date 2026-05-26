@@ -1,5 +1,5 @@
 # Amethyst
-Amethyst is an 84-key keyboard with a small form factor. It comes with the RP2040 and i have used purple akko v3 switches to give it purple colour. This keyboard runs qmk firmware and can be found under firmware. The complete design file is amethyst.step. I am getting a new laptop this year and did not want to let go of the keymap of the old keyboard, thus i created amethyst. 
+Amethyst is an 84-key keyboard with a small form factor. It comes with the RP2040 and i have used purple akko v3 switches to give it purple colour. This keyboard runs qmk firmware and can be found under firmware. The complete design file is amethyst.step.
 
 
 ![render=top](/media/render-top.png)
@@ -20,6 +20,10 @@ Amethyst is an 84-key keyboard with a small form factor. It comes with the RP204
 8. go to the firmware folder and download the .uf2 file. 
 9. drag and drop the .uf2 file to the "RPI-RP2" drive that just popped up.
 10. Your keyboard is now ready!!
+
+## Why I made this keyboard
+ I am getting a new laptop this year and did not want to let go of the keymap of the old keyboard, thus I created amethyst. 
+
 
 # BOM
 |Designator                                                                                                                                                                                                                                                                                                                                                                                                               |Function          |Value                      |Footprint                            |Quantity|Price   |Amount |Order|Link                                                                                                                                     |
