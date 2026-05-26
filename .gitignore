@@ -1,0 +1,4 @@
+hardware/amethyst-backups/
+
+hardware/*.kicad_prl
+hardware/fp-info-cache
