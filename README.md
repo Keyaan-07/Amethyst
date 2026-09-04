@@ -2,7 +2,7 @@
 Amethyst is an 84-key keyboard with a small form factor. It comes with the RP2040 and i have used purple akko v3 switches to give it purple colour. This keyboard runs qmk firmware and can be found under firmware. The complete design file is amethyst.step.
 
 ![zine page](/media/Amethyst-zine-new.png)
-![build](/media/amethyst-build.png)
+![build](/media/amethyst-build.jpg)
 ![render-top](/media/render-top.png)
 ![render-side](/media/render-side.png)
 ![pcb-render](/media/pcb-render.png)
